@@ -34,3 +34,14 @@ Tech used -
 4. OpenAI API for generating summary message as per tasks (other suitable models can be Llama, Langchain, Falcon, etc.)
 5. HeadlessUI for pop-up integration
 
+Preview - 
+
+![Image 25-08-23 at 4 15 PM](https://github.com/serverf21/Trello-AI-PM-Clone/assets/30923855/b30a3016-ce9d-4a38-951b-b891f39b2545)
+
+
+
+
+
+
+
+
